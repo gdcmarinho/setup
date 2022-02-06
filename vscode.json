@@ -1,0 +1,25 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "vscode-icons-mac",
+    "workbench.productIconTheme": "fluent-icons",
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "extensions.ignoreRecommendations": true,
+    "workbench.editorAssociations": {
+        "*.svg": "default"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Tokyo Night",
+    "editor.fontFamily": "'Cascadia Code', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "copyrightInserter.holder": "Gabriel Marinho",
+    "copyrightInserter.license": "mit",
+    "git.ignoreMissingGitWarning": true,
+    "files.autoSave": "afterDelay"
+}
