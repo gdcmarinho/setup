@@ -90,5 +90,6 @@ alias CLS='clear'
 alias CLEAR='clear'
 alias newpass='openssl rand -base64 20'
 alias ping='ping -c 5'
+alias download='curl -LO'
 
 cd ~
