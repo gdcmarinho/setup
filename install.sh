@@ -6,3 +6,5 @@ sudo apt-get install git zsh ruby
 
 # Install OhMyZsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+echo "✅ Installation and configuration completed successfully"
