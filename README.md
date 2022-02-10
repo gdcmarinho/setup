@@ -13,7 +13,7 @@ These are my setup to have more productity while coding applications (there is a
 - [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install) [(Ubuntu 20.04)](https://www.microsoft.com/store/productId/9NBLGGH4MSV6)
 
 ### Wallpaper
-<a href="https://github.com/gdcmarinho/setup/raw/master/.github/images/gradient.jpg">
+<a href="https://github.com/gdcmarinho/setup/raw/main/.github/images/gradient.jpg">
     <img src="./.github/images/gradient.jpg" alt="Gradient wallpaper">
 </a>
 
