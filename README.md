@@ -11,3 +11,11 @@ These are my setup to have more productity while coding applications (there is a
 - GitHub — you're here
 - [Windows 11](https://www.microsoft.com/en-us/windows/windows-11?r=1)
 - [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install) [(Ubuntu 20.04)](https://www.microsoft.com/store/productId/9NBLGGH4MSV6)
+
+### Wallpaper
+<a href="https://github.com/gdcmarinho/setup/raw/master/.github/images/gradient.jpg">
+    <img src="./.github/images/gradient.jpg" alt="Gradient wallpaper">
+</a>
+
+### Terminal visual
+<img src="./.github/images/terminal.png">
