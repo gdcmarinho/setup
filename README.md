@@ -1,5 +1,5 @@
-# dotfiles
-These are my dotfiles to have more productity while coding applications (there is a installation script bonus).
+# setup
+These are my setup to have more productity while coding applications (there is a installation script bonus).
 
 ### General preferences
 - Theme: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
