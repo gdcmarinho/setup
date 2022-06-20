@@ -10,6 +10,8 @@ read USER_FULLNAME
 echo "What is your email address (Git configuration)?"
 read USER_EMAIL
 
+sudo apt-get install git
+
 echo "Starting Git configuration with provided data..."
 git config --global user.name $USER_FULLNAME
 git config --global user.email $USER_EMAIL
@@ -20,7 +22,7 @@ sudo apt-get update
 
 # Install essential software
 echo "Installing essential software to environment"
-sudo apt-get install git zsh ruby openjdk-17-jdk
+sudo apt-get install zsh ruby openjdk-17-jdk
 
 # Install OhMyZsh
 echo "Installing OhMyZsh to improve terminal experience"
