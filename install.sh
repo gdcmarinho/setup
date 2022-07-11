@@ -22,7 +22,7 @@ sudo apt-get update
 
 # Install essential software
 echo "Installing essential software to environment"
-sudo apt-get install zsh ruby openjdk-17-jdk xmlstarlet htop
+sudo apt-get install build-essential zsh ruby openjdk-17-jdk xmlstarlet htop
 
 # Install OhMyZsh
 echo "Installing OhMyZsh to improve terminal experience"
