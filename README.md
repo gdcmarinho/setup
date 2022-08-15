@@ -9,7 +9,7 @@ These are my setup to have more productity while coding applications (there is a
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
 - GitHub — you're here
-- [Windows 11](https://www.microsoft.com/en-us/windows/windows-11?r=1)
+- Windows 10
 - [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install) [(Ubuntu 20.04)](https://www.microsoft.com/store/productId/9NBLGGH4MSV6)
 
 ### Wallpaper
