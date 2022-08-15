@@ -1,6 +1,6 @@
 {
     "workbench.startupEditor": "none",
-    "workbench.iconTheme": "vscode-icons-mac",
+    "workbench.iconTheme": "symbols",
     "workbench.productIconTheme": "fluent-icons",
     "explorer.confirmDelete": false,
     "git.autofetch": true,
@@ -14,12 +14,58 @@
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "workbench.colorTheme": "Tokyo Night",
     "editor.fontFamily": "'Cascadia Code', monospace",
     "editor.fontLigatures": true,
     "editor.fontSize": 13,
-    "copyrightInserter.holder": "Gabriel Marinho",
-    "copyrightInserter.license": "mit",
     "git.ignoreMissingGitWarning": true,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Ubuntu (WSL)": {
+            "path": "C:\\WINDOWS\\System32\\wsl.exe",
+            "args": [
+                "-d",
+                "Ubuntu"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    "explorer.confirmDragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "discord.detailsEditing": "Editing {file_name}",
+    "discord.detailsDebugging": "Debugging {file_name}",
+    "discord.largeImage": "Editing a {LANG} file",
+    "discord.lowerDetailsDebugging": "Debugging: {workspace}",
+    "window.dialogStyle": "custom",
+    "window.titleBarStyle": "custom",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": true
+    },
+    "thunder-client.codeSnippetLanguage": "cs-httpclient",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorTheme": "Tokyo Night"
 }
