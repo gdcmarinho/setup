@@ -1,0 +1,22 @@
+{
+  "name": "setup",
+  "version": "1.0.0",
+  "description": "These are my setup to have more productity while coding applications (there is a installation script bonus).",
+  "main": "install.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdcmarinho/setup.git"
+  },
+  "author": "Gabriel Marinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdcmarinho/setup/issues"
+  },
+  "homepage": "https://github.com/gdcmarinho/setup#readme",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
