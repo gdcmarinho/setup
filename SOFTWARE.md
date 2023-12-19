@@ -1,2 +1,2 @@
-- Firefox Browser
+- Microsoft Edge
 - Obsidian
